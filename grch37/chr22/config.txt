@@ -1,0 +1,10 @@
+A	8
+C	317408
+M	857
+S	75
+W	370
+__module__	src.model
+calibrate	False
+context	428
+seed	94305
+verbose	False
